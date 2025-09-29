@@ -16,7 +16,3 @@ In the ai new era, be prepared for the ai leading tech for serving business:
 
   * svelte [same web browser tech: html view first then js logic]
   * electron for desktop [same web browser tech: html view first then js logic]
-    * ---swift ui: object-cxx like, ios ui
-    * ---c#: cxx like, win ui; plc management
-    * linux industry: cxx like, qt; robot ros, embedded, automative; acm computing math competitive
-    * ---but not the java heavy jvm, or go, or ...
