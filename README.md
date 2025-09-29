@@ -1,7 +1,6 @@
 # mybusiness
-...
 
-In the ai new era, be prepared for the ai leading tech for serving business: 
+In the ai new era, be prepared for the ai leading tech for serving business...
 
 ### nodejs
   * cxx wasm [qt]
