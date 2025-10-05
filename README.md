@@ -15,7 +15,7 @@ Github io: https://yixuanx.github.io/mymarkets/
 
 
 ## Demo 2: My ecommerce
-<img width="1378" height="951" alt="image" src="https://github.com/user-attachments/assets/417c09d6-8d73-4ce6-b3a4-f907e52bc311" />
+<img alt="image" src="https://github.com/user-attachments/assets/417c09d6-8d73-4ce6-b3a4-f907e52bc311" />
 
 
 
@@ -23,11 +23,13 @@ Github io: https://yixuanx.github.io/mymarkets/
   * nodejs:
     * cxx wasm [cxx qt]
     * onnx [pytorch, python qt, python api...]
+  
   * redis
   * postgre
   * api gateway /open api /session with the redis cache
     * mq: redis pubsub, list  /buffer-worker-threads-nodejs
     * full text search db /big data /column based data store /bi  - with postgre, jsonp, distributed sql db
+  
   * UI /&app:
     * svelte [same web browser tech: html view first then js logic]
     * electron for desktop [same web browser tech: html view first then js logic]
