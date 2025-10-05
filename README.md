@@ -1,4 +1,4 @@
-## Summary:
+<img width="1342" height="952" alt="image" src="https://github.com/user-attachments/assets/cbad6159-8a42-44a8-9a79-d5432766239b" />## Summary:
 In the AI era- be prepared for the ai leading tech for serving business...
 
 
@@ -13,7 +13,7 @@ In the AI era- be prepared for the ai leading tech for serving business...
 
 
 ## Demo 2: My ecommerce with recommending
-![Uploading image.png…]()
+<img alt="image" src="https://github.com/user-attachments/assets/0c803cd1-3d5c-40fe-b2d6-69625de64e2d" />
 
 
 
