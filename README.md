@@ -23,7 +23,7 @@ In the AI era- be prepared for the ai leading tech for serving business...
 
   * api gateway /open api /session with the redis cache
     * mq: redis pubsub, list  /buffer-worker-threads-nodejs
-    * search with full text /big data /column based data store /bi  - with postgre, jsonp, distributed sql db
+    * full text search db /big data /column based data store /bi  - with postgre, jsonp, distributed sql db
 
   * UI/app:
     * svelte [same web browser tech: html view first then js logic]
