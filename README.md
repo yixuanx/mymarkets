@@ -9,12 +9,12 @@ https://yixuanx.github.io/mymarkets/
 * Microsoft Teams /&email: yixuanxu_0_0@outlook.com
 
 
-## Demo 1: My markets
+## Demo 1: My markets with lstm
 <img alt="图片" src="https://github.com/user-attachments/assets/31e41ff1-087d-4b11-a1c8-4eea0ae3b29d" />
 
 
 
-## Demo 2: My ecommerce
+## Demo 2: My ecommerce with recommending
 <img alt="image" src="https://github.com/user-attachments/assets/417c09d6-8d73-4ce6-b3a4-f907e52bc311" />
 
 
