@@ -34,10 +34,10 @@ In the AI era- be prepared for the ai leading tech for serving business...
 
 
 More services...
-- Gen ai: llm, gen ai, code gen, q&a, understanding, gen, execute, agent 
+- Gen ai: llm, code gen, q&a, understanding, gen, execute, agent 
 - Typical ai:
   - image classify/recognize
-  - lstm predict, var, es for risk control
+  - lstm predict, var, es for risk control, for risk low but profit high
   - recommending with collaborative filtering
 
 
