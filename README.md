@@ -1,4 +1,4 @@
-<img width="1342" height="952" alt="image" src="https://github.com/user-attachments/assets/cbad6159-8a42-44a8-9a79-d5432766239b" />## Summary:
+## Summary:
 In the AI era- be prepared for the ai leading tech for serving business...
 
 
