@@ -29,3 +29,17 @@ In the AI era, be prepared for the ai leading tech for serving business...
 * https://yixuanx.github.io/mymarkets/
 
 <img alt="图片" src="https://github.com/user-attachments/assets/31e41ff1-087d-4b11-a1c8-4eea0ae3b29d" />
+
+
+
+# My eCommerce:
+
+
+
+# More:  
+- Quant trading, web3, 
+- gen ai: llm, gen ai, code gen, q&a, understanding, gen, execute, agent 
+- typical ai:
+  image classify/recognize
+  lstm predict, var, es for risk control
+  recommending collaobative filtering - pytorch onnx, pyqt, cxx, wasm, cxx qt, python api...
