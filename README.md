@@ -1,7 +1,7 @@
 ## Summary:
 In the AI era- be prepared for the ai leading tech for serving business...
 
-Demo URL: https://yixuanx.github.io/mymarkets/
+https://yixuanx.github.io/mymarkets/
 
 
 ## Codes /&contacts:
@@ -19,7 +19,7 @@ Demo URL: https://yixuanx.github.io/mymarkets/
 
 
 
-## Tech stack:
+# Tech stack:
   * nodejs:
     * cxx wasm [cxx qt]
     * onnx [pytorch, python qt, python api...]
@@ -35,7 +35,7 @@ Demo URL: https://yixuanx.github.io/mymarkets/
     * electron for desktop [same web browser tech: html view first then js logic]
 
 
-More services...
+More...
 - Quant trading, web3, 
 - gen ai: llm, gen ai, code gen, q&a, understanding, gen, execute, agent 
 - typical ai:
