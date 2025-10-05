@@ -43,6 +43,4 @@ More services...
 
 
 
-Url:  https://yixuanx.github.io/mymarkets/
-
-END
+url:  https://yixuanx.github.io/mymarkets/
