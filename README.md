@@ -13,7 +13,8 @@ In the AI era- be prepared for the ai leading tech for serving business...
 
 
 ## Demo 2: My ecommerce with recommending
-<img alt="image" src="https://github.com/user-attachments/assets/417c09d6-8d73-4ce6-b3a4-f907e52bc311" />
+![Uploading image.png…]()
+
 
 
 
