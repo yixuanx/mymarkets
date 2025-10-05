@@ -1,8 +1,6 @@
 ## Summary:
 In the AI era- be prepared for the ai leading tech for serving business...
 
-https://yixuanx.github.io/mymarkets/
-
 
 ## Codes /&contacts:
 * Codes: https://github.com/yixuanx/mymarkets/
@@ -41,3 +39,8 @@ More services...
   - image classify/recognize
   - lstm predict, var, es for risk control
   - recommending with collaborative filtering
+
+
+url:  https://yixuanx.github.io/mymarkets/
+
+END
