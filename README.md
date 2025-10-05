@@ -36,7 +36,6 @@ https://yixuanx.github.io/mymarkets/
 
 
 More services...
-- Quant trading, web3, 
 - Gen ai: llm, gen ai, code gen, q&a, understanding, gen, execute, agent 
 - Typical ai:
   - image classify/recognize
