@@ -3,7 +3,7 @@ In the AI era- be prepared for the ai leading tech for serving business...
 Github io: https://yixuanx.github.io/mymarkets/
 
 
-## Codes /contacts:
+## Codes /&contacts:
 * Codes: https://github.com/yixuanx/mymarkets/
 * Teams /&email: yixuanxu_0_0@outlook.com
 
@@ -13,12 +13,12 @@ Github io: https://yixuanx.github.io/mymarkets/
 
 
 
-## Demo 2: My eCommerce
+## Demo 2: My ecommerce
 <img width="1378" height="951" alt="image" src="https://github.com/user-attachments/assets/417c09d6-8d73-4ce6-b3a4-f907e52bc311" />
 
 
 
-## tech stack:
+## Tech stack:
   * nodejs:
   * cxx wasm [cxx qt]
   * onnx [pytorch, python qt, python api...]
@@ -35,7 +35,7 @@ Github io: https://yixuanx.github.io/mymarkets/
 
 
 
-# More:  
+More:  
 - Quant trading, web3, 
 - gen ai: llm, gen ai, code gen, q&a, understanding, gen, execute, agent 
 - typical ai:
