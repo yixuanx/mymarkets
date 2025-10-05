@@ -39,6 +39,8 @@ More services...
   - image classify/recognize
   - lstm predict, var, es for risk control, for risk low but profit high
   - recommending with collaborative filtering
+- #legacy applications with java:  saas, etl, reporting, jobs /queue /api service /kafka ...
+
 
 
 Url:  https://yixuanx.github.io/mymarkets/
