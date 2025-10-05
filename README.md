@@ -6,7 +6,7 @@ https://yixuanx.github.io/mymarkets/
 
 ## Codes /&contacts:
 * Codes: https://github.com/yixuanx/mymarkets/
-* Teams /&email: yixuanxu_0_0@outlook.com
+* Microsoft Teams /&email: yixuanxu_0_0@outlook.com
 
 
 ## Demo 1: My markets
