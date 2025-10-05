@@ -21,22 +21,19 @@ Github io: https://yixuanx.github.io/mymarkets/
 
 ## Tech stack:
   * nodejs:
-  * cxx wasm [cxx qt]
-  * onnx [pytorch, python qt, python api...]
+    * cxx wasm [cxx qt]
+    * onnx [pytorch, python qt, python api...]
   * redis
   * postgre
-
   * api gateway /open api /session with the redis cache
     * mq: redis pubsub, list  /buffer-worker-threads-nodejs
     * full text search db /big data /column based data store /bi  - with postgre, jsonp, distributed sql db
-
-  * UI/app:
+  * UI /&app:
     * svelte [same web browser tech: html view first then js logic]
     * electron for desktop [same web browser tech: html view first then js logic]
 
 
-
-More:  
+More services...
 - Quant trading, web3, 
 - gen ai: llm, gen ai, code gen, q&a, understanding, gen, execute, agent 
 - typical ai:
