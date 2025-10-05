@@ -6,7 +6,8 @@ https://yixuanx.github.io/mymarkets/
 
 ## Codes /&contacts:
 * Codes: https://github.com/yixuanx/mymarkets/
-* Microsoft Teams /&email: yixuanxu_0_0@outlook.com
+* #Microsoft Teams /&email: yixuanxu_0_0@outlook.com
+* #Wechat: yixuanx
 
 
 ## Demo 1: My markets with lstm
