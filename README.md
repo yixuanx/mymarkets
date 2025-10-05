@@ -3,8 +3,8 @@ In the AI era, be prepared for the ai leading tech for serving business...
 
 
 ## Codes /contacts:
-Codes: https://github.com/yixuanx/mymarkets/
-Teams /&email: yixuanxu_0_0@outlook.com
+* Codes: https://github.com/yixuanx/mymarkets/
+* Teams /&email: yixuanxu_0_0@outlook.com
 
 
 ## tech stack:
