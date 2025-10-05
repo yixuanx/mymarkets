@@ -1,7 +1,7 @@
 ## Summary:
 In the AI era- be prepared for the ai leading tech for serving business...
 
-Github io: https://yixuanx.github.io/mymarkets/
+Demo URL: https://yixuanx.github.io/mymarkets/
 
 
 ## Codes /&contacts:
