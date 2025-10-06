@@ -4,7 +4,7 @@ In the AI era- be prepared for the ai leading tech for serving business...
 
 ## Codes /&contacts:
 * Codes: https://github.com/yixuanx/mymarkets/
-* #Microsoft teams /&Email: yixuanxu_0_0@outlook.com  #Wechat: yixuanx
+* #Microsoft teams /&Email: yixuanxu_0_0@outlook.com
 
 
 ## Demo 1: My markets with lstm
@@ -40,7 +40,6 @@ More services...
   - image classify/recognize
   - lstm predict, var, es for risk control, for risk low but profit high
   - recommending with collaborative filtering
-- ~~#legacy applications, by the java:  saas, etl, reporting, jobs /queue /api service /kafka ...~~
 
 
 
