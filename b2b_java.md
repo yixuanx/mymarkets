@@ -21,4 +21,4 @@ Concurrent processing &pipepline with java - 3
   * ~~xxxhy openstack cloud --- oci, openshift, k8s-go~~
   * ~~xxxhit - monitor/collect, agent/server, api, ui/bi~~
 
-~~level/mgmt/comm, education/certificate~~
+~~level/mgmt/comm, education/certificate/exam/math/en/pitch~~
