@@ -15,6 +15,6 @@ Concurrent processing &pipepline with java - 3
 
 
 ~~xxxpp -- ad, cache, queue, api service, big data, bi --- but not video recommending~~
-  ~~* ---pp -- cqrs, write, read, bi --- no much different~~
-  ~~* xxxhy openstack cloud --- oci, openshift, k8s-go~~
-  ~~* xxxhit - monitor/collect, agent/server, api, ui/bi~~
+  * ~~---pp -- cqrs, write, read, bi --- no much different~~
+  * ~~xxxhy openstack cloud --- oci, openshift, k8s-go~~
+  * ~~xxxhit - monitor/collect, agent/server, api, ui/bi~~
