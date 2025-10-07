@@ -18,3 +18,5 @@ Concurrent processing &pipepline with java - 3
   * ~~---pp -- cqrs, write, read, bi --- no much different~~
   * ~~xxxhy openstack cloud --- oci, openshift, k8s-go~~
   * ~~xxxhit - monitor/collect, agent/server, api, ui/bi~~
+
+~~level/mgmt/comm, education/certificate~~
