@@ -8,7 +8,7 @@ In the AI era- be prepared for the ai leading tech for serving business...
 
 
 ## Demo 1: My markets with lstm
-<img alt="图片" src="https://github.com/user-attachments/assets/31e41ff1-087d-4b11-a1c8-4eea0ae3b29d" />
+<img alt="image" src="https://github.com/user-attachments/assets/31e41ff1-087d-4b11-a1c8-4eea0ae3b29d" />
 
 
 
