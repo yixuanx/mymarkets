@@ -4,14 +4,14 @@ Concurrent processing &pipepline with java - c
 * Api service with java 
 * LSTM predict with java dp4j, java onnx, nodejs onnx, or python
 
-Concurrent processing &pipeline with java
+Concurrent processing &pipeline with java - o
 * Async jobs processing with java
-* Api service with java --- o
+* Api service with java
 
 
-Concurrent processing &pipepline with java
+Concurrent processing &pipepline with java - 3
 * Big data /etl /BI processing with java
-* Api service with java --- 3
+* Api service with java
 
 
 ~~xxxpp -- ad, cache, queue, api service, big data, bi --- but not video recommending~~
