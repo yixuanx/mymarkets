@@ -23,3 +23,4 @@ Concurrent processing &pipepline with java - 3
   * ~~hit - monitor/collect, agent/server, api, ui/bi~~
 
 ~~level/mgmt/comm, education/certificate/exam/math/en/pitch~~
+  * ~~https://www.linkedin.com/in/yixuan-xu-2634a012/~~
