@@ -40,7 +40,7 @@ More services...
   - image classify/recognize
   - lstm predict, var, es for risk control, for risk low but profit high
   - recommending with collaborative filtering
-- ~~more b2b applications, by the java:  saas, etl, reporting, jobs /queue /api service /kafka ...~~ => Go to https://github.com/yixuanx/mymarkets/blob/main/b2b_java.md
+- ~~more b2b applications, by the java:  saas, etl, reporting, jobs /queue /api service /kafka ...~~ => Go to: https://github.com/yixuanx/mymarkets/blob/main/b2b_java.md
 
 
-url:  https://yixuanx.github.io/mymarkets/
+Url:  https://yixuanx.github.io/mymarkets/
