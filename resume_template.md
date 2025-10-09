@@ -65,7 +65,7 @@ TODO: desc
 * Responsible: Development of business functions,  performance optimize on backend, provided APIs for UI integration as well.
 
 ### Carbon saas BI system
-Tech stack: java, redis, oracle, html, js, spring
-Responsible: Development for BI system ETL, performing generation, calculation, transformation, and aggregation for BI cube; provided APIs for UI integration as well.
+* Tech stack: java, redis, oracle, html, js, spring
+* Responsible: Development for BI system ETL, performing generation, calculation, transformation, and aggregation for BI cube; provided APIs for UI integration as well.
 
 ---END---
