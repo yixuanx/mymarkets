@@ -26,12 +26,13 @@
 <img alt="image" src="https://github.com/user-attachments/assets/31e41ff1-087d-4b11-a1c8-4eea0ae3b29d" />
 
 * Tech stack: nodejs, onnx, pytorch, redis, postgresql, svelte, electron
-
+TODO: desc
 
 ### eCommerce web platform (with Recommending)
 <img alt="image" src="https://github.com/user-attachments/assets/0c803cd1-3d5c-40fe-b2d6-69625de64e2d" />
 
 * Tech stack: nodejs, onnx, pytorch, redis, postgresql, svelte, electron
+TODO: desc
 
 
 ### Markets risk data processing with big data
@@ -48,7 +49,7 @@
 ### Markets risk data analyzer web platform
 * Tech stack: java, redis, oracle, html, react/svelte, spring
 * Responsibe: Developed self-service query platform to support user ad-hoc queries; provided refined risk data for user analysis; Utilized concurrency, queues, and caching to improve system processing capacity.
-Achievements: Support user ad-hoc queries, reduced user waiting time for query responses, and accelerated users' daily review process.
+* Achievements: Support user ad-hoc queries, reduced user waiting time for query responses, and accelerated users' daily review process.
 
 ### Order deployment system for OCI
 * Tech stack: java, redis, oracle, spring
