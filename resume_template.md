@@ -26,13 +26,13 @@
 <img alt="image" src="https://github.com/user-attachments/assets/31e41ff1-087d-4b11-a1c8-4eea0ae3b29d" />
 
 * Tech stack: nodejs, onnx, pytorch, redis, postgresql, svelte, electron
-TODO: desc
+* Description: Markets risk analyzer with prection for LSTM, VAR, ES, provide predictions for users daily review on investments.
 
 ### eCommerce web platform (with Recommending)
 <img alt="image" src="https://github.com/user-attachments/assets/0c803cd1-3d5c-40fe-b2d6-69625de64e2d" />
 
 * Tech stack: nodejs, onnx, pytorch, redis, postgresql, svelte, electron
-TODO: desc
+* Description: eCommerce web platform MVP with typical recommending, and ordering placement modules.
 
 
 ### Markets risk data processing with big data
