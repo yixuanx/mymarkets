@@ -1,6 +1,6 @@
 
 ## Summary:
-In the AI era- be prepared for the ai leading tech to serve business...
+In the AI era- be prepared for the AI leading tech to serve business...
 
 
 ## Codes /&contacts:
@@ -21,7 +21,7 @@ In the AI era- be prepared for the ai leading tech to serve business...
 
 # Tech stack:
   * nodejs:
-    * cxx wasm [cxx qt]
+    * cxx wasm [qt]
     * onnx [pytorch, python qt, python api...]
   
   * redis
@@ -44,4 +44,4 @@ More services...
 - ~~more b2b applications, by the java:  saas, etl, reporting, jobs /queue /api service /kafka ...~~
 
 
-URL:  https://yixuanx.github.io/mymarkets/
+*URL:  https://yixuanx.github.io/mymarkets/
