@@ -44,4 +44,4 @@ More services...
 - ~~more b2b applications, by the java:  saas, etl, reporting, jobs /queue /api service /kafka ...~~
 
 
-*URL:  https://yixuanx.github.io/mymarkets/
+*GitHub Page:  https://yixuanx.github.io/mymarkets/
