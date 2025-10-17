@@ -27,7 +27,7 @@ In the AI era- be prepared for the AI leading tech to serve business...
   * redis
   * postgre
   * api gateway /open api /session with the redis cache
-    * mq: redis pubsub, list  /buffer-worker-threads-nodejs
+    * mq: redis pubsub, list  /buffer-worker-threads-nodejs, [kafka]
     * full text search db /big data /column based data store /bi  - with postgre, jsonp, distributed sql db
   
   * UI /&app:
@@ -41,7 +41,6 @@ More services...
   - image classify/recognize
   - lstm predict, var, es for risk control, for risk low but profit high
   - recommending with collaborative filtering
-- ~~more b2b applications, by the java:  saas, etl, reporting, jobs /queue /api service /kafka ...~~
 
 
-*GitHub Page:  https://yixuanx.github.io/mymarkets/
+GitHub Page:  https://yixuanx.github.io/mymarkets/
