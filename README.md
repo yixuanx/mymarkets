@@ -3,11 +3,6 @@
 In the AI era- be prepared for the AI leading tech to serve business...
 
 
-## Codes /&contacts:
-* Codes: https://github.com/yixuanx/mymarkets/
-* #Microsoft Teams /&Email: yixuanxu_0_0@outlook.com
-
-
 ## Demo 1: My markets with LSTM
 <img alt="image" src="https://github.com/user-attachments/assets/31e41ff1-087d-4b11-a1c8-4eea0ae3b29d" />
 
@@ -41,6 +36,12 @@ More services...
   - image classify/recognize
   - lstm predict, var, es for risk control, for risk low but profit high
   - recommending with collaborative filtering
+
+
+
+## Codes /&contacts:
+* Codes: https://github.com/yixuanx/mymarkets/
+* #Microsoft Teams /&Email: yixuanxu_0_0@outlook.com
 
 
 *GitHub Page:  https://yixuanx.github.io/mymarkets/
