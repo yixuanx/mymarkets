@@ -43,4 +43,4 @@ More services...
   - recommending with collaborative filtering
 
 
-GitHub Page:  https://yixuanx.github.io/mymarkets/
+*GitHub Page:  https://yixuanx.github.io/mymarkets/
