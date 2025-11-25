@@ -36,10 +36,7 @@ More services...
   - lstm predict, var, es for risk control, for risk low but profit high
 
 
-## Codes /&contacts:
+## Codes &contacts:
 * Code: https://github.com/yixuanx/mymarkets/
 * Microsoft Teams &Email: yixuanxu_0_0@outlook.com
-
-
----
-GitHub Page:  https://yixuanx.github.io/mymarkets/
+* GitHub Page:  https://yixuanx.github.io/mymarkets/
