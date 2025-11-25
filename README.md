@@ -1,5 +1,3 @@
-
-## Summary:
 In the AI era- be prepared for the AI leading tech to serve business...
 
 
@@ -34,14 +32,14 @@ More services...
 - Gen ai: llm, code gen, q&a, understanding, gen, execute, agent 
 - Typical ai:
   - image classify/recognize
-  - lstm predict, var, es for risk control, for risk low but profit high
   - recommending with collaborative filtering
-
+  - lstm predict, var, es for risk control, for risk low but profit high
 
 
 ## Codes /&contacts:
-* Codes: https://github.com/yixuanx/mymarkets/
-* #Microsoft Teams /&Email: yixuanxu_0_0@outlook.com
+* Code: https://github.com/yixuanx/mymarkets/
+* Microsoft Teams /&Email: yixuanxu_0_0@outlook.com
 
 
-*GitHub Page:  https://yixuanx.github.io/mymarkets/
+---
+GitHub Page:  https://yixuanx.github.io/mymarkets/
