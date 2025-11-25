@@ -38,7 +38,7 @@ More services...
 
 ## Codes /&contacts:
 * Code: https://github.com/yixuanx/mymarkets/
-* Microsoft Teams /&Email: yixuanxu_0_0@outlook.com
+* Microsoft Teams &Email: yixuanxu_0_0@outlook.com
 
 
 ---
